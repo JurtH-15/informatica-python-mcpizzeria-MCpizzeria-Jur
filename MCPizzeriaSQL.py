@@ -1,8 +1,8 @@
 # Vul hier de naam van je programma in:
-#
+# test
 #
 # Vul hier jullie namen in:
-#
+# Jur.t.H
 #
 #
 

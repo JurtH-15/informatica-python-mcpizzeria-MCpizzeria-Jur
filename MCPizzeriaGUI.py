@@ -1,9 +1,9 @@
 # Dit bestand zorgt voor de gebruikersinterface (GUI)van onze programma.
 # Vul hier de naam van je programma in:
-#
+# test
 #
 # Vul hier jullie namen in:
-#
+# Jur.t.H
 #
 #
 
